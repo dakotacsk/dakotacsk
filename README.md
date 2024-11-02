@@ -58,5 +58,9 @@
   <img src="https://profile-counter.glitch.me/dakotacsk/count.svg?" />
 </div>
 
-I'm working on doing more coding projects outside of class this year! Watch my stats go up :)
+---
+
+## I'm working on doing more coding projects outside of class this year! Watch my stats go up :)
+<div align="center">
 [![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotacsk)](https://github.com/dakotacsk/github-readme-stats)
+</div>
