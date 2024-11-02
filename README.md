@@ -62,4 +62,4 @@
 
 ## I'm working on doing more coding projects this year! Watch my stats change :)
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dakotacsk" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&layout=donut" />
