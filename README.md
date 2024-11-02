@@ -1,4 +1,6 @@
-# Hi! I am Dakota Chang :)
+
+![Dakota-github-header-image](https://github.com/user-attachments/assets/2029d898-1428-47a8-9f1c-04df2d475963)
+
 
 🔹 I am an Engineering with Computing student at Olin College of Engineering, diving into machine learning, data science, and systems engineering with a focus on public interest tech. I’m passionate about the intersection of technology and real-world impact, aiming to create solutions that benefit communities and drive innovation in fields like sustainability, decentralized tech, and AI.
 
