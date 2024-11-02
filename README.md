@@ -66,5 +66,5 @@
 
 ## I'm working on doing more coding projects this year! Watch my stats change :)
 <div align="center">
-  <img width=90% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&layout=donut" />
 </div>
