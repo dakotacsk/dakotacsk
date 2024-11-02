@@ -5,6 +5,8 @@
 
 📫 How to reach me: Email me at schang2@olin.edu or dakotacsk@protonmail.com!
 
+[![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotacsk)](https://github.com/dakotacsk/github-readme-stats)
+
 ### 🔭 Current Projects
 - **Public Interest Tech (PInT)** - Leading a team that tackles community-focused projects, including:
   - **FarmHacks**: Developing sustainable, sensor-based solutions for small farms.
