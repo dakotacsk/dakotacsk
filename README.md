@@ -11,10 +11,14 @@
   - **Aimpower**: Benchmarking LLM performance on diverse speech patterns to improve inclusivity in AI.
     
 - **Principles of Integrated Engineering (PIE)**: Visualizing pathfinding algorithms like Q-learning and Dijikstra, focusing on the practical applications of reinforcement learning for navigation and optimization tasks.
-  ![pathfinding_example](https://github.com/user-attachments/assets/f37a42de-7bda-4faf-a37d-b6bd30b5ae05)
-
+  <div align="center">
+    <img alt="pathfinding" src="https://github.com/user-attachments/assets/f37a42de-7bda-4faf-a37d-b6bd30b5ae05">
+  </div>
+  
 - **HVAC System Optimization**: Using ML and physics-based models to optimize energy use in air handling units, leveraging data science to improve sustainability.
-  <img width="1319" alt="image" src="https://github.com/user-attachments/assets/8196fad9-e416-4bc8-8190-9327724c33e2">
+  <div align="center">
+    <img width="1319" alt="image" src="https://github.com/user-attachments/assets/8196fad9-e416-4bc8-8190-9327724c33e2">
+  </div>
 
 
 ---
