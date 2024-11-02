@@ -2,6 +2,8 @@
 
 🔹 I am an Engineering with Computing student at Olin College of Engineering, diving into machine learning, data science, and systems engineering with a focus on public interest tech. I’m passionate about the intersection of technology and real-world impact, aiming to create solutions that benefit communities and drive innovation in fields like sustainability, decentralized tech, and AI.
 
+📫 How to reach me: Email me at schang2@olin.edu or dakotacsk@protonmail.com!
+
 ### 🔭 Current Projects
 - **Public Interest Tech (PInT)** - Leading a team that tackles community-focused projects, including:
   - **FarmHacks**: Developing sustainable, sensor-based solutions for small farms.
