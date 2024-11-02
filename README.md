@@ -62,4 +62,4 @@
 
 ## I'm working on doing more coding projects this year! Watch my stats change :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&layout=donut)](https://github.com/dakotacsk/github-readme-stats)
