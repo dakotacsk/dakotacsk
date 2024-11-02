@@ -62,4 +62,9 @@
 
 ## I'm working on doing more coding projects outside of class this year! Watch my stats go up :)
 
-[![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakotacsk)](https://github.com/dakotacsk/github-readme-stats)
+<div align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dakotacsk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</div>
