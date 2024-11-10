@@ -15,9 +15,7 @@
     <img alt="pathfinding" src="https://github.com/user-attachments/assets/f37a42de-7bda-4faf-a37d-b6bd30b5ae05">
   </div>
 
-  <div align="center">
-    <img alt="qlearning and pathfinding" src="https://github.com/user-attachments/assets/eee799e9-69fc-42b2-ad1a-4c993831e3a3">
-  </div>
+  https://github.com/user-attachments/assets/eee799e9-69fc-42b2-ad1a-4c993831e3a3
   
 - **HVAC System Optimization**: Using ML and physics-based models to optimize energy use in air handling units, leveraging data science to improve sustainability.
   <div align="center">
