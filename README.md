@@ -14,6 +14,8 @@
   <div align="center">
     <img alt="pathfinding" src="https://github.com/user-attachments/assets/f37a42de-7bda-4faf-a37d-b6bd30b5ae05">
   </div>
+
+Uploading qlearning&dijikstra.mov…
   
 - **HVAC System Optimization**: Using ML and physics-based models to optimize energy use in air handling units, leveraging data science to improve sustainability.
   <div align="center">
