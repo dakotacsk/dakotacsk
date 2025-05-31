@@ -5,21 +5,14 @@
 
 📫 How to reach me: Email me at schang2@olin.edu or dakotacsk@protonmail.com!
 
-### 🔭 Current Projects
+### 🔭 Some Past Projects
 - **NeoViews** - Predicting Soccer Player Locations
   - Developed a Long Short-Term Memory (LSTM) model to accurately predict soccer player locations throughout an entire match, achieving a prediction accuracy within 10 meters. Benchmarked the model against various optimization methods, including Bayesian optimization and linear regression, to evaluate performance improvements and accuracy.
 <div align="center">
     <img alt="neoviews" src="https://github.com/user-attachments/assets/cb8494ab-3825-4186-8909-28bd66cb4b19">
 </div>
-
-- **Public Interest Tech (PInT)** - Leading a team that tackles community-focused projects, including:
-  - **FarmHacks**: Developing sustainable, sensor-based solutions for small farms.
-  - **Aimpower**: Benchmarking LLM performance on diverse speech patterns to improve inclusivity in AI.
     
 - **Principles of Integrated Engineering (PIE)**: Visualizing pathfinding algorithms like Q-learning and Dijikstra, focusing on the practical applications of reinforcement learning for navigation and optimization tasks.
-  <div align="center">
-    <img alt="pathfinding" src="https://github.com/user-attachments/assets/f37a42de-7bda-4faf-a37d-b6bd30b5ae05">
-  </div>
 
   https://github.com/user-attachments/assets/eee799e9-69fc-42b2-ad1a-4c993831e3a3
   
