@@ -59,7 +59,7 @@ I'm diving deep into machine learning, data science, and systems engineering wit
 
 - 🌐 **Website:** [dakotacsk.com](https://dakotacsk.com)
 - 🚀 **Nuggy:** [nuggy.io](https://nuggy.io)
-- 📧 **Email:** schang2@olin.edu or dakota.chang@indicodata.ai
+- 📧 **Email:** schang2@olin.edu or dakota@nuggy.io
 - 💼 **LinkedIn:** [linkedin.com/in/dakotacsk](https://linkedin.com/in/dakotacsk)
 - 👾 **GitHub:** You're already here!
 
