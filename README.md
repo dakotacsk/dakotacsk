@@ -67,4 +67,6 @@ I'm diving deep into machine learning, data science, and systems engineering wit
 
 I'm always interested in collaborating on projects at the intersection of AI and social impact. Feel free to reach out!
 
-## I'm working on doing more coding projects this year! Watch my stats change :)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakotacsk&layout=donut" />
+</div>
