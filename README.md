@@ -21,29 +21,31 @@ I'm diving deep into machine learning, data science, and systems engineering wit
 - Helping dispensaries optimize margins and sell-through rates
 - Currently piloting in Massachusetts with plans to expand nationally
 
-## 💼 Experience
-
-- **Co-Founder** — Nuggy (AI-powered dynamic pricing for cannabis retail)
-- **SWE Fellowship** — Netflix
-- **ML R&D Intern** — Indico Data
-- **ML Intern** — Barn Owls
-- **ML Researcher** — Olin RL Lab
-
-## 🛠 Skills & Tools
+## 🔧 Skills & Tools
 
 **Machine Learning:** PyTorch, TensorFlow, DSPy, LSTM, VAE, Reinforcement Learning  
 **Data Science:** Bayesian optimization, Feature engineering, Time series analysis  
 **Software Engineering:** Python, Systems design, DevOps
 
+## 💼 Experience
+
+- **Co-Founder** — Nuggy
+- **SWE Fellowship** — Netflix
+- **ML R&D Intern** — Indico Data
+- **ML Intern** — Barn Owls
+- **ML Researcher** — Olin RL Lab
+
 ## 🔭 Past Projects
 
 - **NeoViews** - Predicting Soccer Player Locations
-  - Developed an LSTM model to accurately predict soccer player locations throughout an entire match, achieving prediction accuracy within 10 meters
+  - Developed a Long Short-Term Memory (LSTM) model to accurately predict soccer player locations throughout an entire match, achieving prediction accuracy within 10 meters
   - Benchmarked against Bayesian optimization and linear regression methods
 
 - **Principles of Integrated Engineering (PIE)** - Visualizing Pathfinding Algorithms
   - Interactive visualization of Q-learning and Dijkstra algorithms
-  - Focus on practical applications of reinforcement learning for navigation and optimization
+  - Practical applications of reinforcement learning for navigation and optimization
+
+![PIE Algorithm Visualization](https://github.com/user-attachments/assets/eee799e9-69fc-42b2-ad1a-4c993831e3a3)
 
 - **HVAC System Optimization** - Sustainable ML
   - Applied ML and physics-based models to optimize energy use in air handling units
